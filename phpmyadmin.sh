@@ -1,7 +1,9 @@
 #!/bin/bash
 # phpMyAdmin SSL Setup
 # Author: John McCarthy
+# <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
 # Date: 15th of January, 2014
+# Version 1.0
 #
 # To God only wise, be glory through Jesus Christ forever. Amen.
 # Romans 16:27, I Corinthians 15:1-4
@@ -330,7 +332,7 @@ function doAll()
 	   \e[01;37;42mWell done! You have successfully setup phpMyAdmin with SSL!\e[0m
 
 	    \e[01;37;42mProceed to your phpMyAdmin web UI, https://fqdn/phpmyadmin\e[0m
-
+  \e[30;01mCheckout similar material at midactstech.blogspot.com and github.com/Midacts\e[0m
 
 			    \e[01;37m########################\e[0m
 			    \e[01;37m#\e[0m \e[31mI Corinthians 15:1-4\e[0m \e[01;37m#\e[0m
